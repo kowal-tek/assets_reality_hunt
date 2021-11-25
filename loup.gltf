@@ -1,0 +1,414 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.0.0)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_pbrSpecularGlossiness",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3712,
+            "type": "VEC3",
+            "max": [
+                7.783598899841309,
+                186.99359130859376,
+                14.586557388305664
+            ],
+            "min": [
+                -239.91749572753907,
+                -60.707489013671878,
+                -14.586546897888184
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 21504,
+            "type": "SCALAR",
+            "max": [
+                3711
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 898,
+            "type": "VEC3",
+            "max": [
+                -3.9146668910980226,
+                175.2953338623047,
+                6.4801130294799809
+            ],
+            "min": [
+                -228.21922302246095,
+                -49.00923156738281,
+                -6.480099201202393
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 4608,
+            "type": "SCALAR",
+            "max": [
+                897
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 6849,
+            "type": "VEC3",
+            "max": [
+                -98.9156723022461,
+                -56.06333923339844,
+                18.70754623413086
+            ],
+            "min": [
+                -136.33078002929688,
+                -129.06442260742188,
+                -18.70757293701172
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 40704,
+            "type": "SCALAR",
+            "max": [
+                6848
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2753,
+            "type": "VEC3",
+            "max": [
+                -93.49411010742188,
+                -129.06442260742188,
+                24.129112243652345
+            ],
+            "min": [
+                -141.75234985351563,
+                -354.96075439453127,
+                -24.12912940979004
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 16128,
+            "type": "SCALAR",
+            "max": [
+                2752
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 502320,
+            "uri": "loup.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 44544,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 44544,
+            "byteLength": 86016,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 130560,
+            "byteLength": 10776,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 141336,
+            "byteLength": 18432,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 159768,
+            "byteLength": 82188,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 241956,
+            "byteLength": 162816,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 404772,
+            "byteLength": 33036,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 437808,
+            "byteLength": 64512,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "Cylinder-Material.003",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "extensions": {
+                "KHR_materials_pbrSpecularGlossiness": {
+                    "diffuseFactor": [
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "specularFactor": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "glossinessFactor": 0.0010000000474974514
+                }
+            }
+        },
+        {
+            "name": "Cylinder-Material.004",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9936754703521729
+            },
+            "emissiveFactor": [
+                0.800000011920929,
+                0.800000011920929,
+                0.800000011920929
+            ],
+            "extensions": {
+                "KHR_materials_pbrSpecularGlossiness": {
+                    "diffuseFactor": [
+                        0.800000011920929,
+                        0.800000011920929,
+                        0.800000011920929,
+                        1.0
+                    ],
+                    "specularFactor": [
+                        0.20000000298023225,
+                        0.20000000298023225,
+                        0.20000000298023225
+                    ],
+                    "glossinessFactor": 0.0010000000474974514
+                }
+            }
+        },
+        {
+            "name": "Cylinder.001-Material.001",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9936754703521729
+            },
+            "emissiveFactor": [
+                0.800000011920929,
+                0.800000011920929,
+                0.800000011920929
+            ],
+            "extensions": {
+                "KHR_materials_pbrSpecularGlossiness": {
+                    "diffuseFactor": [
+                        0.800000011920929,
+                        0.800000011920929,
+                        0.800000011920929,
+                        1.0
+                    ],
+                    "specularFactor": [
+                        0.20000000298023225,
+                        0.20000000298023225,
+                        0.20000000298023225
+                    ],
+                    "glossinessFactor": 0.0010000000474974514
+                }
+            }
+        },
+        {
+            "name": "Cylinder.001-Material.002",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "extensions": {
+                "KHR_materials_pbrSpecularGlossiness": {
+                    "diffuseFactor": [
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "specularFactor": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "glossinessFactor": 0.0010000000474974514
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Cylinder-Material.003",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 1,
+                    "attributes": {
+                        "POSITION": 0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Cylinder-Material.004",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 2
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Cylinder.001-Material.001",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 5,
+                    "attributes": {
+                        "POSITION": 4
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Cylinder.001-Material.002",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 3,
+                    "indices": 7,
+                    "attributes": {
+                        "POSITION": 6
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "children": [
+                1,
+                4
+            ]
+        },
+        {
+            "name": "Cylinder",
+            "children": [
+                2,
+                3
+            ]
+        },
+        {
+            "name": "Cylinder-Material.003",
+            "mesh": 0
+        },
+        {
+            "name": "Cylinder-Material.004",
+            "mesh": 1
+        },
+        {
+            "name": "Cylinder.001",
+            "children": [
+                5,
+                6
+            ]
+        },
+        {
+            "name": "Cylinder.001-Material.001",
+            "mesh": 2
+        },
+        {
+            "name": "Cylinder.001-Material.002",
+            "mesh": 3
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
